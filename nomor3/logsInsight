@@ -1,0 +1,3 @@
+fields @timestamps, @message1
+| sort @timestamps desc
+| limit 20
